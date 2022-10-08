@@ -8,5 +8,6 @@ under developent
 -------
 # feature 2 - joroscope
 horo scope updated
-
+-----
+added new feature
 
